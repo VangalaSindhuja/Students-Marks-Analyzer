@@ -1,0 +1,24 @@
+  body{
+            text-align: center;
+            justify-items: center;
+            background-color: aliceblue;
+        }
+        #demo {
+            width: 400px;
+            margin: auto;
+            border-collapse: collapse;
+            text-align: center;
+        }
+
+        #demo th, #demo td {
+            padding: 10px;
+        }
+
+        #gana, #gs {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        h1{
+            font-weight:bold ;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }

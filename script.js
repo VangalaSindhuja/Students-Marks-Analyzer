@@ -1,4 +1,4 @@
- const name=["sindhu","gana","ganasri"];
+ const name=["sindhu","sravs","sri"];
         const marks=[15,80,99];
     const table=document.getElementById("demo");
     let max=marks[0];
@@ -33,8 +33,9 @@
          minind=i;
         }
     }
-    document.getElementById("gana").innerHTML = 
+    document.getElementById("g").innerHTML = 
             "Highest: " + name[maxind] + " → " + max;
 
         document.getElementById("gs").innerHTML = 
+
             "Lowest: " + name[minind] + " → " + min;
